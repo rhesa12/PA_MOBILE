@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "216071700151",
+    "project_id": "projectakhirmobile-d1c72",
+    "storage_bucket": "projectakhirmobile-d1c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216071700151:android:f15159b0f9d8a8163e1732",
+        "android_client_info": {
+          "package_name": "com.example.posttest5_096_filipus_manik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216071700151-10nahslue6q8vm7gb05chtr2gggl8t9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx8i4xBkAxz9GtDH3GYxxoK0MZuXRt1BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216071700151-10nahslue6q8vm7gb05chtr2gggl8t9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216071700151-gjhfj5igl7eef20t3olh73e8u7t1t0s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.posttest5096FilipusManik.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
